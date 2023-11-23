@@ -1,0 +1,10 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+
+/*viz 3 corresponde al boxplot*/
+#viz1,#viz2,#viz3,#viz4{
+  width: 80%;
+  height: 300px;
+}
